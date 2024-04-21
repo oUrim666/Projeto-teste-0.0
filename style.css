@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+
+}
+
+a, h1, body {
+
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+span, a {
+  color: #FF9900;
+}
+
+#footer a + a {
+  margin-left: 28px;
+
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#line {
+  width: 568px;
+  height: 0 auto 8px;
+
+  margin: auto; 
+  border: 1px solid #ECEFF2;
+
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
